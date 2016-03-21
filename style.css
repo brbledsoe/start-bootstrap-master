@@ -49,9 +49,20 @@ section {
   font-weight: 400;
   margin-bottom: 75px;
 }
-
-.yeah{
-  width: 100%;
-  height: 2000px;
-  background-color: red;
+/*
+Extra Styling to the Nav*/
+/*nav {
+  background-color: transparent;
 }
+
+ul li{
+  color: white;
+}
+
+ul li:hover{
+  color: yellow;
+}
+
+.navbar-brand{
+  color: yellow;
+}*/
